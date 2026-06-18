@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
-A tela de **Cadastro de Clientes** é utilizada para consultar, cadastrar e gerenciar clientes no sistema. Nela são armazenadas todas as informações cadastrais, fiscais, financeiras e de contato necessárias para emissão de documentos, controles comerciais e integração com os demais módulos do sistema. :contentReference[oaicite:0]{index=0}
+A tela de **Cadastro de Clientes** é utilizada para consultar, cadastrar e gerenciar clientes no sistema. Nela são armazenadas todas as informações cadastrais, fiscais, financeiras e de contato necessárias para emissão de documentos, controles comerciais e integração com os demais módulos do sistema.
 
 ---
 
@@ -13,7 +13,7 @@ A tela de **Cadastro de Clientes** é utilizada para consultar, cadastrar e gere
 - Caso o cliente não possua Inscrição Estadual, selecionar **Não Contribuinte**.
 - Caso seja isento, selecionar **Isento**.
 - O campo CEP deve ser preenchido apenas com números.
-- Caso o endereço não possua número, informar **SN**. :contentReference[oaicite:7]{index=7}
+- Caso o endereço não possua número, informar **SN**.
 
 ---
 
@@ -30,7 +30,7 @@ Ao clicar em **+ Novo**, o usuário pode cadastrar um novo cliente informando da
 - Regime Tributário;
 - Telefone;
 - E-mail;
-- Endereço completo. :contentReference[oaicite:1]{index=1} :contentReference[oaicite:2]{index=2}
+- Endereço completo.
 
 ### Dados Fiscais
 
@@ -41,7 +41,7 @@ O cadastro permite definir informações fiscais importantes, como:
 - Regime Tributário;
 - Inscrição Municipal;
 - Suframa;
-- Operação Tributária padrão do cliente. :contentReference[oaicite:3]{index=3}
+- Operação Tributária padrão do cliente.
 
 ### Endereços
 
@@ -53,7 +53,7 @@ Além do endereço principal, é possível cadastrar endereços adicionais para 
 - Bairro;
 - CEP;
 - Município;
-- Coordenadas geográficas. :contentReference[oaicite:4]{index=4}
+- Coordenadas geográficas. 
 
 ### Informações Comerciais e Financeiras
 
@@ -63,7 +63,7 @@ O cadastro também permite configurar:
 - Portador bancário;
 - Grupo e subgrupo de clientes;
 - Tags de identificação;
-- Observações gerais e financeiras. :contentReference[oaicite:5]{index=5}
+- Observações gerais e financeiras.
 
 ### Contatos
 
@@ -74,7 +74,7 @@ O cadastro também permite configurar:
 - Telefone;
 - E-mail;
 - Tipo de documento recebido;
-- Tipo de anexo (PDF, XML, PDF + XML, etc.). :contentReference[oaicite:6]{index=6}
+- Tipo de anexo (PDF, XML, PDF + XML, etc.).
 
 ---
 
