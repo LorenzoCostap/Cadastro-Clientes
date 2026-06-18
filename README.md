@@ -8,7 +8,7 @@ A tela de **Cadastro de Clientes** é utilizada para consultar, cadastrar e gere
 
 ## Observações Importantes
 
-- Todos os campos marcados com **(*)** são obrigatórios.
+- Todos os campos marcados com **( * )** são obrigatórios.
 - Clientes MEI devem possuir Inscrição Estadual cadastrada.
 - Caso o cliente não possua Inscrição Estadual, selecionar **Não Contribuinte**.
 - Caso seja isento, selecionar **Isento**.
