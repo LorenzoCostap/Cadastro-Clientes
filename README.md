@@ -234,10 +234,3 @@ As tabelas podem definir:
 Define o percentual de comissão que será aplicado ao representante vinculado ao cliente.
 
 Essa configuração é utilizada posteriormente nos processos de vendas e apuração de comissões.
-
----
-
-## Objetivo da Tela
-
-Centralizar todas as informações cadastrais, fiscais, comerciais e financeiras dos clientes em um único local, permitindo maior controle operacional, emissão correta de documentos fiscais, integração entre módulos e melhor gestão do relacionamento com clientes.
-
