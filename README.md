@@ -81,3 +81,163 @@ O cadastro também permite configurar:
 ## Objetivo da Tela
 
 Centralizar todas as informações do cliente em um único cadastro, garantindo a correta emissão de documentos fiscais, integração financeira, controle comercial e comunicação com os clientes.
+
+### Mais Ações
+
+A opção Mais Ações reúne funcionalidade complementares para gerenciamento do cliente.
+
+Principais recursos disponíveis:
+
+- Editar cadastro;
+- Vincular contas;
+- Configurar informações comerciais;
+- Adicionar informações complementares;
+- Abrir conversa via telefone ou WhatsApp;
+- Consultar histórico de movimentações.
+- Consultar histórico de movimentações.
+
+---
+
+### Contas
+
+Permite vincular contas relacionadas ao cadastro do cliente.
+
+E possível informar;
+
+- Origem do vínculo;
+- Conta correspondente.
+
+Essa funcionalidade é utilizada quando um mesmo cadastro possui relacionamento em diferentes áreas do sistema, como cliente, fornecedor ou transportadora.
+
+---
+
+### Informações Comerciais
+
+Área destinada às configurações comerciais do cliente.
+
+Permite:
+
+- Vincular representantes;
+- Definir tabelas de preços;
+- Configurar regras comerciais específicas.
+
+---
+
+Campo livre utilizado para registrar observações complementares que não se enquadram nos demais campos do cadastro.
+
+Exemplos:
+
+- Preferências de atendimentos;
+- Restrições comerciais;
+- Informações operacionais.
+
+---
+
+### Abrir Conversa
+
+Facilita o contato com o cliente através dos meios de comunicação cadastrados.
+
+Disponibiliza:
+
+- Telefone;
+- WhatsApp.
+
+---
+
+### Histórico
+
+Permite consultar todas as movimentações relacionadas ao cliente.
+
+entre elas:
+
+- Pedidos;
+- Notas fiscais;
+- Movimentações financeiras;
+- Histórico comercial.
+
+---
+
+## Menu 
+
+O menu superior disponibiliza recursos auxiliares para consulta e gerenciamento dos cadastros.
+
+### Pesquisa por Documento
+
+Permite Localizar clientes através do CPF, CNPJ ou documentos vinculados ao cadastro.
+
+## Integração E-Commerce
+
+Função destinada aos clientes que utilizam integração com plataformas de e-commerce.
+
+### Exportar
+
+Exporta as informações exibidas na tela para um arquivo Excel.
+
+Pode ser utilizado para:
+
+- Relatórios;
+- Auditorias;
+- Conferências;
+- Importações externas.
+
+---
+
+A pesquisa Avançada permite localizar clientes utilizando diversos filtros.
+
+Filtros disponíveis:
+
+- Código;
+- CPF/CNPJ;
+- Tags;
+- Inscrição Estadual;
+- Nome;
+- Nome Fantasia;
+- Município;
+- Representante;
+- Grupo;
+- Observações;
+- Situação.
+
+Também é possível ordenar os resultados por:
+
+- Nome;
+- Código;
+- Grupo.
+
+---
+
+## Vinculação de Representantes
+
+Permite associar representantes comerciais aos clientes.
+
+Através dessa funcionalidade é possível:
+
+- Definir representantes responsáveis;
+- Configurar tabelas de preços;
+- Definir percentuais de desconto;
+- Configurar comissões.
+
+---
+
+### Tabela de Preços
+
+Permite associar tabelas comerciais específicas ao cliente ou representante
+
+As tabelas podem definir:
+
+- Preços diferenciados;
+- Descontos permitidos;
+- Condições comerciais específicas.
+
+### Comissão
+
+Define o percentual de comissão que será aplicado ao representante vinculado ao cliente.
+
+Essa configuração é utilizada posteriormente nos processos de vendas e apuração de comissões.
+
+---
+
+## Objetivo da Tela
+
+Centralizar todas as informações cadastrais, fiscais, comerciais e financeiras dos clientes em um único local, permitindo maior controle operacional, emissão correta de documentos fiscais, integração entre módulos e melhor gestão do relacionamento com clientes.
+
